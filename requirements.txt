@@ -1,0 +1,6 @@
+# Mystery Puzzle Room - Requirements
+# Game ini hanya menggunakan Python standard library
+# Tidak memerlukan library eksternal apapun!
+
+# Opsional untuk styling terminal dengan warna:
+# colorama==0.4.6
